@@ -15,7 +15,7 @@ HEADERS = {
 WORKFLOWS = [
     {"repo": "queuelistlog", "workflow": "queuelistlog.yaml"},
     {"repo": "base_pending", "workflow": "main.expedicao.yaml"},
-    {"repo": "base-handedover", "workflow": "main_expedicao_yaml"},
+    {"repo": "base-handedover", "workflow": "main_expedicao.yaml"},
     {"repo": "base_ended", "workflow": "main_ended.yaml"},
     {"repo": "queuelist", "workflow" : "queuelist.yaml"},
     {"repo": "base_inbound", "workflow" : "main_inbound.yaml"},
