@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # Pega o token do ambiente
-TOKEN = os.getenv("GH_TOKEN")
+TOKEN = os.getenv("GH_Token_5min")
 HEADERS = {
     "Authorization": f"Bearer {TOKEN}",
     "Accept": "application/vnd.github+json"
