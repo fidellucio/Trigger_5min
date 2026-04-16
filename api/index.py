@@ -17,8 +17,7 @@ WORKFLOWS = [
     {"repo": "Base-Pending", "workflow": "main_expedicao.yaml"},
     {"repo": "Base-Handeover", "workflow": "main_expedicao.yaml"},
     {"repo": "Base_3PL", "workflow": "main_expedicao.yaml"},
-    {"repo": "base_transporting", "workflow": "main_base_to_Transporting.yaml"},
-    {"repo": "Queuelist", "workflow" : "queue_list_sp5.yml"},
+    {"repo": "queuelist", "workflow" : "queue_list_sp5.yml"},
     {"repo": "base_inbound", "workflow" : "main_inbound.yaml"},
 ]
 
